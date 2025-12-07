@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBA7E7B-E40B-4AB0-A7DD-CD809B1CF515}|01_HelloWorld\\01_HelloWorld.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBA7E7B-E40B-4AB0-A7DD-CD809B1CF515}|01_HelloWorld\\01_HelloWorld.csproj|solutionrelative:01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\01_HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "01_HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\01_HelloWorld\\Program.cs",
+              "RelativeToolTip": "01_HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:58:00.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

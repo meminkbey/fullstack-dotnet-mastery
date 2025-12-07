@@ -1,0 +1,7 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\01_HelloWorld\bin\Debug\01_HelloWorld.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\01_HelloWorld\bin\Debug\01_HelloWorld.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\01_HelloWorld\bin\Debug\01_HelloWorld.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\01_HelloWorld\obj\Debug\01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\01_HelloWorld\obj\Debug\01_HelloWorld.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\01_HelloWorld\obj\Debug\01_HelloWorld.pdb
