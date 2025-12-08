@@ -1,0 +1,7 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\03_Variables2\bin\Debug\03_Variables2.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\03_Variables2\bin\Debug\03_Variables2.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\03_Variables2\bin\Debug\03_Variables2.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\03_Variables2\obj\Debug\03_Variables2.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\03_Variables2\obj\Debug\03_Variables2.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\03_Variables2\obj\Debug\03_Variables2.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\03_Variables2\obj\Debug\03_Variables2.pdb
