@@ -1,0 +1,7 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\04_ConditionalStatements\bin\Debug\04_ConditionalStatements.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\04_ConditionalStatements\bin\Debug\04_ConditionalStatements.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\04_ConditionalStatements\bin\Debug\04_ConditionalStatements.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\04_ConditionalStatements\obj\Debug\04_ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\04_ConditionalStatements\obj\Debug\04_ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\04_ConditionalStatements\obj\Debug\04_ConditionalStatements.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\04_ConditionalStatements\obj\Debug\04_ConditionalStatements.pdb
