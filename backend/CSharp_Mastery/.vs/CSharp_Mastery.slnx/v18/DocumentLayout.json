@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2A9081E-C22D-4035-BF27-89616EE7DA1C}|04_ConditionalStatements\\04_ConditionalStatements.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\04_conditionalstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A9081E-C22D-4035-BF27-89616EE7DA1C}|04_ConditionalStatements\\04_ConditionalStatements.csproj|solutionrelative:04_conditionalstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E9EDFBE-0B35-427D-941C-F87DB40C9B57}|03_Variables2\\03_Variables2.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\03_variables2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E9EDFBE-0B35-427D-941C-F87DB40C9B57}|03_Variables2\\03_Variables2.csproj|solutionrelative:03_variables2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E08C95AB-A6B8-45D3-9DE4-92B66181ED3D}|05_Loops\\05_Loops.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\05_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08C95AB-A6B8-45D3-9DE4-92B66181ED3D}|05_Loops\\05_Loops.csproj|solutionrelative:05_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\04_ConditionalStatements\\Program.cs",
-              "RelativeDocumentMoniker": "04_ConditionalStatements\\Program.cs",
-              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\04_ConditionalStatements\\Program.cs",
-              "RelativeToolTip": "04_ConditionalStatements\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\05_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "05_Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\05_Loops\\Program.cs",
+              "RelativeToolTip": "05_Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T17:59:59.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\03_Variables2\\Program.cs",
-              "RelativeDocumentMoniker": "03_Variables2\\Program.cs",
-              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\03_Variables2\\Program.cs",
-              "RelativeToolTip": "03_Variables2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T13:14:04.295Z",
+              "WhenOpened": "2025-12-10T15:51:03.477Z",
               "EditorCaption": ""
             }
           ]
