@@ -1,0 +1,7 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\06_PracticalExamplesWithLoops\obj\Debug\06_PracticalExamplesWithLoops.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\06_PracticalExamplesWithLoops\obj\Debug\06_PracticalExamplesWithLoops.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\06_PracticalExamplesWithLoops\bin\Debug\06_PracticalExamplesWithLoops.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\06_PracticalExamplesWithLoops\bin\Debug\06_PracticalExamplesWithLoops.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\06_PracticalExamplesWithLoops\bin\Debug\06_PracticalExamplesWithLoops.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\06_PracticalExamplesWithLoops\obj\Debug\06_PracticalExamplesWithLoops.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\06_PracticalExamplesWithLoops\obj\Debug\06_PracticalExamplesWithLoops.pdb

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E08C95AB-A6B8-45D3-9DE4-92B66181ED3D}|05_Loops\\05_Loops.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\05_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E08C95AB-A6B8-45D3-9DE4-92B66181ED3D}|05_Loops\\05_Loops.csproj|solutionrelative:05_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BA2BD98-3107-4064-9597-E7D2FE9CB419}|06_PracticalExamplesWithLoops\\06_PracticalExamplesWithLoops.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\06_practicalexampleswithloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA2BD98-3107-4064-9597-E7D2FE9CB419}|06_PracticalExamplesWithLoops\\06_PracticalExamplesWithLoops.csproj|solutionrelative:06_practicalexampleswithloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\05_Loops\\Program.cs",
-              "RelativeDocumentMoniker": "05_Loops\\Program.cs",
-              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\05_Loops\\Program.cs*",
-              "RelativeToolTip": "05_Loops\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\06_PracticalExamplesWithLoops\\Program.cs",
+              "RelativeDocumentMoniker": "06_PracticalExamplesWithLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\06_PracticalExamplesWithLoops\\Program.cs*",
+              "RelativeToolTip": "06_PracticalExamplesWithLoops\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:51:03.477Z",
+              "WhenOpened": "2025-12-10T18:48:53.232Z",
               "EditorCaption": ""
             }
           ]

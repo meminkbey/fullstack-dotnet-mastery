@@ -4,4 +4,5 @@
   <Project Path="03_Variables2/03_Variables2.csproj" Id="1e9edfbe-0b35-427d-941c-f87db40c9b57" />
   <Project Path="04_ConditionalStatements/04_ConditionalStatements.csproj" Id="c2a9081e-c22d-4035-bf27-89616ee7da1c" />
   <Project Path="05_Loops/05_Loops.csproj" Id="e08c95ab-a6b8-45d3-9de4-92b66181ed3d" />
+  <Project Path="06_PracticalExamplesWithLoops/06_PracticalExamplesWithLoops.csproj" Id="8ba2bd98-3107-4064-9597-e7d2fe9cb419" />
 </Solution>
