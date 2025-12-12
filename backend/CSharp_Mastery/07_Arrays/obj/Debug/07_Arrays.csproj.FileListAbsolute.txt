@@ -1,0 +1,7 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\07_Arrays\bin\Debug\07_Arrays.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\07_Arrays\bin\Debug\07_Arrays.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\07_Arrays\bin\Debug\07_Arrays.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\07_Arrays\obj\Debug\07_Arrays.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\07_Arrays\obj\Debug\07_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\07_Arrays\obj\Debug\07_Arrays.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\07_Arrays\obj\Debug\07_Arrays.pdb
