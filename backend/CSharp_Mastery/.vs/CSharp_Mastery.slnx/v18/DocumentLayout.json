@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E13135E0-2F98-464D-91FF-68B5FD1A230C}|08_ForeachLoop\\08_ForeachLoop.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\08_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13135E0-2F98-464D-91FF-68B5FD1A230C}|08_ForeachLoop\\08_ForeachLoop.csproj|solutionrelative:08_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B82C996-7216-4C5B-8D10-EB50C110CB5E}|09_Methods\\09_Methods.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\09_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B82C996-7216-4C5B-8D10-EB50C110CB5E}|09_Methods\\09_Methods.csproj|solutionrelative:09_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\08_ForeachLoop\\Program.cs",
-              "RelativeDocumentMoniker": "08_ForeachLoop\\Program.cs",
-              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\08_ForeachLoop\\Program.cs",
-              "RelativeToolTip": "08_ForeachLoop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\09_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "09_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\09_Methods\\Program.cs",
+              "RelativeToolTip": "09_Methods\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T09:52:54.76Z",
+              "WhenOpened": "2025-12-13T13:37:05.408Z",
               "EditorCaption": ""
             }
           ]
