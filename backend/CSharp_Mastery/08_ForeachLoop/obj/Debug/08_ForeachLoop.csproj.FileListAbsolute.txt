@@ -1,0 +1,7 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\08_ForeachLoop\bin\Debug\08_ForeachLoop.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\08_ForeachLoop\bin\Debug\08_ForeachLoop.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\08_ForeachLoop\bin\Debug\08_ForeachLoop.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\08_ForeachLoop\obj\Debug\08_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\08_ForeachLoop\obj\Debug\08_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\08_ForeachLoop\obj\Debug\08_ForeachLoop.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\08_ForeachLoop\obj\Debug\08_ForeachLoop.pdb
