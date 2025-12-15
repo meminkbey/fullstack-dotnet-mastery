@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EC46E8B-539B-4B85-B6F9-5073ABF9AE7C}|10_Database\\10_Database.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\10_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC46E8B-539B-4B85-B6F9-5073ABF9AE7C}|10_Database\\10_Database.csproj|solutionrelative:10_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99F91087-FAFD-4CCF-ABC5-7000ECEBEBF6}|11_DatabaseCRUD\\11_DatabaseCRUD.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery\\11_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F91087-FAFD-4CCF-ABC5-7000ECEBEBF6}|11_DatabaseCRUD\\11_DatabaseCRUD.csproj|solutionrelative:11_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\10_Database\\Program.cs",
-              "RelativeDocumentMoniker": "10_Database\\Program.cs",
-              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\10_Database\\Program.cs",
-              "RelativeToolTip": "10_Database\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\11_DatabaseCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "11_DatabaseCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery\\11_DatabaseCRUD\\Program.cs*",
+              "RelativeToolTip": "11_DatabaseCRUD\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T18:24:27.014Z",
+              "WhenOpened": "2025-12-15T16:56:02.994Z",
               "EditorCaption": ""
             }
           ]

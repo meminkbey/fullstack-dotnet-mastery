@@ -1,0 +1,7 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\11_DatabaseCRUD\bin\Debug\11_DatabaseCRUD.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\11_DatabaseCRUD\bin\Debug\11_DatabaseCRUD.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\11_DatabaseCRUD\bin\Debug\11_DatabaseCRUD.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\11_DatabaseCRUD\obj\Debug\11_DatabaseCRUD.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\11_DatabaseCRUD\obj\Debug\11_DatabaseCRUD.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\11_DatabaseCRUD\obj\Debug\11_DatabaseCRUD.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\11_DatabaseCRUD\obj\Debug\11_DatabaseCRUD.pdb
