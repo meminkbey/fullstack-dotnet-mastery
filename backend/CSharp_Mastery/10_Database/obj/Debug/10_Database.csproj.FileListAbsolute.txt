@@ -1,0 +1,7 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\10_Database\obj\Debug\10_Database.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\10_Database\obj\Debug\10_Database.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\10_Database\bin\Debug\10_Database.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\10_Database\bin\Debug\10_Database.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\10_Database\bin\Debug\10_Database.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\10_Database\obj\Debug\10_Database.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery\10_Database\obj\Debug\10_Database.pdb
