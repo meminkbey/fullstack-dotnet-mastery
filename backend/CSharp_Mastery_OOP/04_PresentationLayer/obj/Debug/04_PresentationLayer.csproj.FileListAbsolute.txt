@@ -1,0 +1,9 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\bin\Debug\04_PresentationLayer.exe.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\bin\Debug\04_PresentationLayer.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\bin\Debug\04_PresentationLayer.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\obj\Debug\04_PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\obj\Debug\_04_PresentationLayer.Properties.Resources.resources
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\obj\Debug\04_PresentationLayer.csproj.GenerateResource.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\obj\Debug\04_PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\obj\Debug\04_PresentationLayer.exe
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\04_PresentationLayer\obj\Debug\04_PresentationLayer.pdb
