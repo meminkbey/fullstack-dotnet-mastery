@@ -1,0 +1,12 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\bin\Debug\01_EntityLayer.dll.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\bin\Debug\01_EntityLayer.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\bin\Debug\01_EntityLayer.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\obj\Debug\01_EntityLayer.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\obj\Debug\01_EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\obj\Debug\01_Entit.580919BB.Up2Date
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\obj\Debug\01_EntityLayer.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\01_EntityLayer\obj\Debug\01_EntityLayer.pdb

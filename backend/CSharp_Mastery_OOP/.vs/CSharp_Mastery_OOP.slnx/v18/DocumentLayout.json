@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery_oop\\02_dataaccesslayer\\abstract\\ipropductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|solutionrelative:02_dataaccesslayer\\abstract\\ipropductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery_oop\\02_dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|solutionrelative:02_dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery_oop\\02_dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|solutionrelative:02_dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery_oop\\02_dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|solutionrelative:02_dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery_oop\\02_dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|solutionrelative:02_dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery_oop\\02_dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|solutionrelative:02_dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeDocumentMoniker": "02_DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeToolTip": "02_DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:46:59.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "RelativeDocumentMoniker": "02_DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "RelativeToolTip": "02_DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:46:39.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAdminDal.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "RelativeDocumentMoniker": "02_DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "RelativeToolTip": "02_DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:45:50.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPropductDal.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\IPropductDal.cs",
+              "RelativeDocumentMoniker": "02_DataAccessLayer\\Abstract\\IPropductDal.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\IPropductDal.cs",
+              "RelativeToolTip": "02_DataAccessLayer\\Abstract\\IPropductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:45:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "02_DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "02_DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:45:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "02_DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "02_DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:42:08.474Z",
+              "EditorCaption": ""
             }
           ]
         }

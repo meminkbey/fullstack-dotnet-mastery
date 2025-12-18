@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery_oop\\02_dataaccesslayer\\migrations\\202512181832002_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8889772A-6FF7-4B4F-9D00-863038335F24}|02_DataAccessLayer\\02_DataAccessLayer.csproj|solutionrelative:02_dataaccesslayer\\migrations\\202512181832002_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF58027-3552-410B-ACEB-801805955CC2}|01_EntityLayer\\01_EntityLayer.csproj|c:\\users\\memin\\source\\fullstack-dotnet-mastery\\backend\\csharp_mastery_oop\\01_entitylayer\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF58027-3552-410B-ACEB-801805955CC2}|01_EntityLayer\\01_EntityLayer.csproj|solutionrelative:01_entitylayer\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202512181832002_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Migrations\\202512181832002_mig1.cs",
+              "RelativeDocumentMoniker": "02_DataAccessLayer\\Migrations\\202512181832002_mig1.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\02_DataAccessLayer\\Migrations\\202512181832002_mig1.cs",
+              "RelativeToolTip": "02_DataAccessLayer\\Migrations\\202512181832002_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:32:04.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\01_EntityLayer\\Concrete\\Customer.cs",
+              "RelativeDocumentMoniker": "01_EntityLayer\\Concrete\\Customer.cs",
+              "ToolTip": "C:\\Users\\memin\\source\\fullstack-dotnet-mastery\\backend\\CSharp_Mastery_OOP\\01_EntityLayer\\Concrete\\Customer.cs",
+              "RelativeToolTip": "01_EntityLayer\\Concrete\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T18:31:27.53Z",
+              "EditorCaption": ""
             }
           ]
         }

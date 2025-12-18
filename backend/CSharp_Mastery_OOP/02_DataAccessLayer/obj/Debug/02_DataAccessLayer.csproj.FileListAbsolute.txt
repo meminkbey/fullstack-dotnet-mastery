@@ -1,0 +1,17 @@
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\02_DataAccessLayer.dll.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\02_DataAccessLayer.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\02_DataAccessLayer.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\01_EntityLayer.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\01_EntityLayer.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\01_EntityLayer.dll.config
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\obj\Debug\02_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\obj\Debug\02_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\obj\Debug\02_DataA.0C5B655E.Up2Date
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\obj\Debug\02_DataAccessLayer.dll
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\obj\Debug\02_DataAccessLayer.pdb
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\obj\Debug\_02_DataAccessLayer.Migrations.mig1.resources
+C:\Users\memin\source\fullstack-dotnet-mastery\backend\CSharp_Mastery_OOP\02_DataAccessLayer\obj\Debug\02_DataAccessLayer.csproj.GenerateResource.cache

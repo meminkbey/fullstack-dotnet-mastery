@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="01_EntityLayer/01_EntityLayer.csproj" />
-  <Project Path="02_DataAccessLayer/02_DataAccessLayer.csproj" />
-  <Project Path="03_BusinessLayer/03_BusinessLayer.csproj" />
-  <Project Path="04_PresentationLayer/04_PresentationLayer.csproj" />
+  <Project Path="01_EntityLayer/01_EntityLayer.csproj" Id="2ef58027-3552-410b-aceb-801805955cc2" />
+  <Project Path="02_DataAccessLayer/02_DataAccessLayer.csproj" Id="8889772a-6ff7-4b4f-9d00-863038335f24" />
+  <Project Path="03_BusinessLayer/03_BusinessLayer.csproj" Id="e0713187-ce5b-453e-8c01-b3cf95d67078" />
+  <Project Path="04_PresentationLayer/04_PresentationLayer.csproj" Id="a4e80d78-017e-4148-bc11-f67e4c529a3c" />
 </Solution>

@@ -13,5 +13,8 @@ namespace _01_EntityLayer.Concrete
         public int ProductStock { get; set; }
         public decimal ProductPrice { get; set; }
         public string ProductDescription { get; set; }
+        public int CategoryId { get; set; }
+        public virtual int Category { get; set; }
+        public List<Order> Orders { get; set; }
     }
 }
